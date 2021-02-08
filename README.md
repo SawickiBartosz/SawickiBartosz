@@ -1,30 +1,22 @@
 ## Hi there 👋
 
-- 🌱 I’m currently studying **Data Science** at Faculty of Mathematics and Information Science, Warsaw University of Technology.
-- 🌱 I'm currently learning about **Data Bases** and **Machine Learning**.
+- 👨🏻‍🎓 I’m currently studying **Data Science** at Faculty of Mathematics and Information Science, Warsaw University of Technology
+- 🌱 I'm currently learning about **Statistics**, **Databases** and **Machine Learning**
 
-## 💪 My current skills are
+## My current skills 💪
 
 - OOP in Java
 - Data Visualization in R and Python
+- Linux and Git basics
+- Algorithms and Data Structures
+- B2 English
 
-## I'm eager to learn
+## I'm eager to learn 🤓
 
-- Big Data solutions
-- Machine Learning 
+- Big Data solutions (Hadoop, Spark, Kafka)
+- Machine Learning (Tensorflow, scikit-learn)
+- Best practices in OOP
 
+## 📫 How to reach me: 
 
-<!--
-**SawickiBartosz/SawickiBartosz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Via my email ⬅️
