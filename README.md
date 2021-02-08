@@ -21,6 +21,6 @@
 
 Via my email ⬅️
 
-## My prorjects
+## My projects
 
 Feel free to browse my projects ⬇️
