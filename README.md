@@ -6,6 +6,7 @@
 ## My current skills 💪
 
 - OOP in Java
+- Machine learning in sklearn
 - Data Visualization in R and Python
 - Linux and Git basics
 - Algorithms and Data Structures
@@ -14,7 +15,7 @@
 ## I'm eager to learn 🤓
 
 - Big Data solutions (Hadoop, Spark, Kafka)
-- Machine Learning (Tensorflow, scikit-learn)
+- Machine Learning (Tensorflow, keras)
 - Best practices in OOP
 
 ## 📫 How to reach me: 
