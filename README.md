@@ -8,6 +8,8 @@
 - OOP in Java
 - Machine learning in sklearn
 - Data Visualization in R and Python
+- SQL (DQL, DML, DDL)
+- XAI in Python using Dalex
 - Linux and Git basics
 - Algorithms and Data Structures
 - B2 English
