@@ -41,7 +41,7 @@
 
 ## 📫 How to reach me: 
 
-Via my email ⬅️
+Via my email or LinkedIn
 
 ## My projects
 
