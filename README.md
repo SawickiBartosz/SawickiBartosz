@@ -1,48 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm **Bartosz Sawicki**
 
-- 👨🏻‍🎓 I’m currently studying **Data Science** at the Faculty of Mathematics and Information Science, Warsaw University of Technology
-- 🌱 I'm currently preparing my MSc thesis in **transfer learning**. 
+Welcome to my GitHub profile! This README serves as my **About Me** page — a quick introduction to who I am, what I do, and what I'm currently building.
 
-## My current skills 💪
+## 🚀 About Me
 
-### Programming Languages
-- Python
-- R
-- SQL
-- Java
-- Haskell
+I'm a young Data Science professional specializing in **LLMs**, **AI agents**, and practical applications of modern AI systems. I currently work as a **Data Science Consultant at KPMG Poland**, where I help clients design, develop, and integrate AI-driven solutions. Before that, I worked at **Alcon** as part of their **GenAI team**, focusing on internal tooling and automation.
 
-### Machine Learning
-- Python toolkit: `scikit-learn`, `numpy`, `scipy`
-- Deep learning (image processing and NLP): `pytorch`, `transformers`
-- eXplainable AI: `dalex` and `captum`
-- Bayesian optimization:  `optuna`
-- Knowledge of ML theory and optimization
+I'm a certified **Azure AI Engineer** ([cert link](https://learn.microsoft.com/api/credentials/share/en-gb/BartekS-8614/43F149AD1F76C47E?sharingId=CB5F2AB3736E25F2)) and earned my degree in **Data Science** from the **Warsaw University of Technology**. I'm passionate about building intelligent systems and bringing AI ideas to life.
 
-### Data platforms and related tools
-- AWS and GCP cloud solutions and concepts
-- Big data architecture and tools: HadoopFS, Hive, HBase, Kafka, Spark
-- Data warehouse concepts
-- ETL with SSIS and NiFi
-- Business Intelligence dashboards: Tableau and SAS Viya
-- MS SQL Server
+## 🛠️ Tech Stack
 
-### Other
-- Linux and Git basics
-- Working in Docker
-- Data visualization in Python (`matplotlib`, `seaborn`) and R (`ggplot`, `shiny`)
-- REST API: `fastAPI`
-- C1 English
+**Languages:** Python • TypeScript (learning)
 
-## I'm eager to learn 🤓
+**Frameworks:** FastAPI • pydanticAI • React (learning)
 
-- MLOps best practices and tools
-- Practical applications of ML/DL
+**Cloud:** Azure
 
-## 📫 How to reach me: 
+## 🌱 Learning
 
-Via my email or LinkedIn
+I'm currently learning and improving:
 
-## My projects
+* TypeScript & React
+* Terraform and IaC concepts
 
-Feel free to browse my projects ⬇️
+## 💬 Ask Me About
+
+* LLM applications and architecture
+* AI agents
+* Azure AI services
+* Python development
+
+## 📫 How to Reach Me
+
+* LinkedIn: https://www.linkedin.com/in/bartosz-sawicki00/
+* Email: [sawicki.bartosz@interia.pl](mailto:sawicki.bartosz@interia.pl)
